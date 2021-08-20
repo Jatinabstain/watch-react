@@ -7,7 +7,7 @@ import { useRouter } from 'next/router'
 export const Header = () => {
     const router = useRouter()
     return (
-        <nav className="navbar header navbar-expand-lg sticky-top navbar-light">
+        <nav className="navbar header navbar-expand-lg sticky-top navbar-dark">
             <div className="container">
                 <Link className="navbar-brand" href="#home">
                     <a><Image src={logo} alt="logo" className="img-fluid logo" width={200} /></a>
