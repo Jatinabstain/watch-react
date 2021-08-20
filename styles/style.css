@@ -812,5 +812,6 @@ footer {
     margin-bottom: 1rem;
 }
 .custom_footer:focus{
-    background: rgba(255,255,255,.05);
+    background: rgba(255,255,255,.05) !important;
+    box-shadow: inset 0 0 1px 2px #21b09c !important;
 }
