@@ -478,6 +478,7 @@ a:hover {
     padding: 60px 30px 30px;
     position: relative;
     border-radius: 2px;
+    margin-bottom: 1rem;
 }
 .author-info {
     max-width: 100px;
