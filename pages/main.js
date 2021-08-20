@@ -278,7 +278,7 @@ export const Main = () => {
                                         <div className="back">
                                             <div className="product-info">
                                                 <h3>Blue Apple Watch</h3>
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s</p>
                                                 <a href="#" className="btn-ordernow">Order Now</a>
                                             </div>
                                         </div>
@@ -295,7 +295,7 @@ export const Main = () => {
                                         <div className="back">
                                             <div className="product-info">
                                                 <h3>Blue Apple Watch</h3>
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s</p>
                                                 <a href="#" className="btn-ordernow">Order Now</a>
                                             </div>
                                         </div>
@@ -312,7 +312,7 @@ export const Main = () => {
                                         <div className="back">
                                             <div className="product-info">
                                                 <h3>Blue Apple Watch</h3>
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s</p>
                                                 <a href="#" className="btn-ordernow">Order Now</a>
                                             </div>
                                         </div>
@@ -329,7 +329,7 @@ export const Main = () => {
                                         <div className="back">
                                             <div className="product-info">
                                                 <h3>Blue Apple Watch</h3>
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s</p>
                                                 <a href="#" className="btn-ordernow">Order Now</a>
                                             </div>
                                         </div>
@@ -358,7 +358,7 @@ export const Main = () => {
                                                 <Image src={author} className="img-fluid"  />
                                             </div>
                                             <div className="testimonial-entry">
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                                 <h4>Harshad Patel <span>/ Web Designer</span></h4>
                                             </div>
                                         </div>
@@ -369,7 +369,7 @@ export const Main = () => {
                                                 <Image src={author} className="img-fluid"  />
                                             </div>
                                             <div className="testimonial-entry">
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                                 <h4>Harshad Patel <span>/ Web Designer</span></h4>
                                             </div>
                                         </div>
@@ -380,7 +380,7 @@ export const Main = () => {
                                                 <Image src={author} className="img-fluid"  />
                                             </div>
                                             <div className="testimonial-entry">
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                                 <h4>Harshad Patel <span>/ Web Designer</span></h4>
                                             </div>
                                         </div>
@@ -483,7 +483,7 @@ export const Main = () => {
                         <div className="row">
                             <div className="col-md-12">
                                 <div className="newsletter-form">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s.</p>
                                     <form className="form-inline">
                                         <div className="form-group">
                                             <input className="form-control shadow-none" name="your-email" id="your-email" type="email" placeholder="Enter Your Email address" required="" />
@@ -528,7 +528,7 @@ export const Main = () => {
                             <div className="col-md-4">
                                 <div className="footer-info">
                                     <Image src={logo} className="img-fluid" alt="logo" />
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&apos;t look even slightly believable.</p>
                                     <div className="contactinfo-single">
                                         <h3>Phone Number</h3>
                                         <p>+9 022 345 67891</p>
