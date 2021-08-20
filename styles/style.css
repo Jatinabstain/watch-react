@@ -811,3 +811,6 @@ footer {
 .product-single{
     margin-bottom: 1rem;
 }
+.custom_footer:focus{
+    background: rgba(255,255,255,.05);
+}
