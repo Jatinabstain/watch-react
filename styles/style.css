@@ -603,6 +603,7 @@ a:hover {
 }
 .newsletter-form .form-group {
     width: 100%;
+    display: flex;
 }
 .newsletter-form .form-control {
     border: none;
