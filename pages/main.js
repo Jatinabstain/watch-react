@@ -177,7 +177,8 @@ export const Main = () => {
                                     <h2>About Product</h2>
                                 </div>
                             </div>
-                            <div className="row">
+                        </div>
+                        <div className="row">
                                 <div className="col-md-12">
                                     <div className="about-product-single">
                                         <div className="row">
@@ -215,7 +216,6 @@ export const Main = () => {
                                     </div>
                                 </div>
                             </div>
-                        </div>
                     </div>
                 </section>
                 <section className="about-facts parallaxie">
@@ -506,16 +506,16 @@ export const Main = () => {
                                     <form>
                                         <div className="row">
                                             <div className="form-group col-md-6 col-sm-6">
-                                                <input type="text" className="form-control" placeholder="Enter Your Name" />
+                                                <input type="text" className="form-control shadow-none" placeholder="Enter Your Name" />
                                             </div>
                                             <div className="form-group col-md-6 col-sm-6">
-                                                <input type="email" className="form-control" placeholder="Your Email Address" />
+                                                <input type="email" className="form-control shadow-none" placeholder="Your Email Address" />
                                             </div>
                                             <div className="form-group col-md-12 col-sm-12">
-                                                <input type="text" className="form-control" placeholder="Subject" />
+                                                <input type="text" className="form-control shadow-none" placeholder="Subject" />
                                             </div>
                                             <div className="form-group col-md-12 col-sm-12">
-                                                <textarea rows="8" className="form-control" placeholder="How can i help you?"></textarea>
+                                                <textarea rows="8" className="form-control shadow-none" placeholder="How can i help you?"></textarea>
                                             </div>
                                             <div className="col-md-12 col-sm-12">
                                                 <button type="submit" className="btn-contact disabled" title="Submit Your Message!">Submit</button>
